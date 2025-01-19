@@ -28,4 +28,8 @@ If you use this code, please cite our paper:
 ### Acknowledgements
 This paper is supported by the National Natural Science Foundation of China (No. 62036001) and the National Social Science Foundation of China (No. 18ZDA295).
 
-For more details, please refer to our [paper](https://github.com/COOLPKU/LTRS/paper.pdf).
+## More details
+For more details, please refer to our [paper.pdf](https://github.com/COOLPKU/LTRS/).
+
+## More Resources
+For more work and resources related to the Chinese Object-Oriented Lexicon (COOL), Peking University, please refer to [this repository](https://github.com/COOLPKU) (to be released in the near future).
