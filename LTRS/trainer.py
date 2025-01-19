@@ -39,7 +39,7 @@ parser.add_argument('--device', type=str, default='cuda:0', help='Device to run 
 parser.add_argument('--tau1', type=float, default=20.0, help='Value of hyperparameter tau1.')
 parser.add_argument('--tau2', type=float, default=20.0, help='Value of hyperparameter tau2.')
 parser.add_argument('--tau3', type=float, default=20.0, help='Value of hyperparameter tau3.')
-parser.add_argument('--steps', type=int, default=1000, help='Total number of training steps.')
+parser.add_argument('--steps', type=int, default=1000, help='number of training steps per eval.')
 
 parser.add_argument('--loss_fn_type', type=str, default='listnet', help='Type of loss function,e.g., listnet or list_mle.')
 parser.add_argument('--mode', type=str, default='train', help='Mode to run, e.g., train or evaluate.')
