@@ -28,4 +28,4 @@ If you use this code, please cite our paper:
 ### Acknowledgements
 This paper is supported by the National Natural Science Foundation of China (No. 62036001) and the National Social Science Foundation of China (No. 18ZDA295).
 
-For more details, please refer to our [paper](https://github.com/COOLPKU/LTRS/paper).
+For more details, please refer to our [paper](https://github.com/COOLPKU/LTRS/paper.pdf).
