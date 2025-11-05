@@ -20,8 +20,7 @@ python trainer.py --mode evaluate --ckpt ./output --device cuda:0
 ### Citation
 If you use this code, please cite our paper:
 ```bibtex
-@inproceedings{
-}
+Hansi Wang, Yue Wang, Qiliang Liang, and Yang Liu. 2025. LTRS: Improving Word Sense Disambiguation via Learning to Rank Senses. In Proceedings of the 31st International Conference on Computational Linguistics, pages 1934–1942, Abu Dhabi, UAE. Association for Computational Linguistics.
 ```
 
 ### Acknowledgements
