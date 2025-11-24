@@ -23,9 +23,6 @@ If you use this code, please cite our paper:
 Hansi Wang, Yue Wang, Qiliang Liang, and Yang Liu. 2025. LTRS: Improving Word Sense Disambiguation via Learning to Rank Senses. In Proceedings of the 31st International Conference on Computational Linguistics, pages 1934–1942, Abu Dhabi, UAE. Association for Computational Linguistics.
 ```
 
-### Acknowledgements
-This paper is supported by the National Natural Science Foundation of China (No. 62036001) and the National Social Science Foundation of China (No. 18ZDA295).
-
 ## More details
 For more details, please refer to our [paper.pdf](https://github.com/COOLPKU/LTRS/).
 
